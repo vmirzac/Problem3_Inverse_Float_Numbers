@@ -2,6 +2,8 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
 
+//Given an array of floating point numbers, inverse the elements of the array
+
 public class Inverse_Float_Numbers {
 
     public static void main(String[] args) {
